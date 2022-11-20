@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ayirbastau</string>
+    <string-array name="currencyNames">
+        <item>KZT</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+    </string-array>
+</resources>
